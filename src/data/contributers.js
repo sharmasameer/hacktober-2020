@@ -24,11 +24,11 @@ export const contributers={
     'sharmasameer':{
         name: 'Sameer Sharma',
         occupation: 'ML Enthusiast',
-        featureImageURL: '',
+        featureImageURL: 'https://i.ibb.co/CQ3SKDD/Sameer.jpg',
         socialMediaURLs: {
-            instagram:'',
-            github:'',
-            linkedin:''
+            instagram:'https://www.instagram.com/sharma_sameer07/?hl=en',
+            github:'https://github.com/sharmasameer',
+            linkedin:'https://www.linkedin.com/in/sameer-sharma-225091153/'
         }
     },
 }
